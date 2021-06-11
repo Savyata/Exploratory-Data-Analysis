@@ -1,2 +1,2 @@
 # Data Science Projects
-Data Science projects using Python
+Exploratory Data Analysis using Python
